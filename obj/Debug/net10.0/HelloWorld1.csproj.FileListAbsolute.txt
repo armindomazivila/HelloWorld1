@@ -1,0 +1,15 @@
+/Users/armindomazivila/HelloWorld1/obj/Debug/net10.0/HelloWorld1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armindomazivila/HelloWorld1/obj/Debug/net10.0/HelloWorld1.AssemblyInfoInputs.cache
+/Users/armindomazivila/HelloWorld1/obj/Debug/net10.0/HelloWorld1.AssemblyInfo.cs
+/Users/armindomazivila/HelloWorld1/obj/Debug/net10.0/HelloWorld1.csproj.CoreCompileInputs.cache
+/Users/armindomazivila/HelloWorld1/obj/Debug/net10.0/HelloWorld1.sourcelink.json
+/Users/armindomazivila/HelloWorld1/bin/Debug/net10.0/HelloWorld1
+/Users/armindomazivila/HelloWorld1/bin/Debug/net10.0/HelloWorld1.deps.json
+/Users/armindomazivila/HelloWorld1/bin/Debug/net10.0/HelloWorld1.runtimeconfig.json
+/Users/armindomazivila/HelloWorld1/bin/Debug/net10.0/HelloWorld1.dll
+/Users/armindomazivila/HelloWorld1/bin/Debug/net10.0/HelloWorld1.pdb
+/Users/armindomazivila/HelloWorld1/obj/Debug/net10.0/HelloWorld1.dll
+/Users/armindomazivila/HelloWorld1/obj/Debug/net10.0/refint/HelloWorld1.dll
+/Users/armindomazivila/HelloWorld1/obj/Debug/net10.0/HelloWorld1.pdb
+/Users/armindomazivila/HelloWorld1/obj/Debug/net10.0/HelloWorld1.genruntimeconfig.cache
+/Users/armindomazivila/HelloWorld1/obj/Debug/net10.0/ref/HelloWorld1.dll
